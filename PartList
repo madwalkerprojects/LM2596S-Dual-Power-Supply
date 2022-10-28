@@ -1,0 +1,30 @@
+Partlist
+
+Exported from PowerSupply.sch at 28-10-2022 07:14 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part      Value          Device                      Package         Library     Sheet
+
+3.3V      PINHD-1X2      PINHD-1X2                   1X02            Connector   1
+5V        PINHD-1X2      PINHD-1X2                   1X02            Connector   1
+12V-1     PINHD-1X2      PINHD-1X2                   1X02            Connector   1
+12V-2     PINHD-1X2      PINHD-1X2                   1X02            Connector   1
+C1        220uF 50V      C-POL_ECAP-10.5MM           CAPAE1030X1050N Capacitor   1
+C2        220uF 50V      C-POL_ECAP-10.5MM           CAPAE1030X1050N Capacitor   1
+C3        100K           C-US_CHIP-1206(3216-METRIC) CAPC3216X135    Capacitor   1
+C4        100K           C-US_CHIP-1206(3216-METRIC) CAPC3216X135    Capacitor   1
+C5        220uF 50V      C-POL_ECAP-10.5MM           CAPAE1030X1050N Capacitor   1
+C6        220uF 50V      C-POL_ECAP-10.5MM           CAPAE1030X1050N Capacitor   1
+C7        100K           C-US_CHIP-1206(3216-METRIC) CAPC3216X135    Capacitor   1
+C8        100K           C-US_CHIP-1206(3216-METRIC) CAPC3216X135    Capacitor   1
+D1                       DIODE-DO214AA               DO214AA         diode       1
+D2                       DIODE-DO214AA               DO214AA         diode       1
+L1        33uH           SRR1210                     SRR1210         inductors-2 1
+L2        33uH           SRR1210                     SRR1210         inductors-2 1
+LED1                     LEDCHIPLED_1206             CHIPLED_1206    led         1
+LM2596S-  5.0            LM2596S                     TO263-5         linear      1
+LM2596S-1 3.3            LM2596S                     TO263-5         linear      1
+R1        1K             R-US_R1206                  R1206           resistor    1
